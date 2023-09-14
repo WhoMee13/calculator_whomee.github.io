@@ -172,6 +172,7 @@
     background-image: none;
     border-radius: 10px;
     min-width: 250px;
+    min-height: 350px;
   }
   .button {
     margin-bottom: -10px;
@@ -273,6 +274,7 @@
     margin: 10vh auto;
     min-width: 260px;
     max-height: 500px;
+    min-height: 400px;
   }
   .row {
     position: relative;
