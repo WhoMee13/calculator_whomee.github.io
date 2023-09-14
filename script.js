@@ -6,7 +6,7 @@ document.getElementById("1").onclick = function () {
   document.getElementById("output").innerHTML = ans;
 };
 document.getElementById("clear").onclick = function () {
-  ans = "0";
+  ans = "";
   document.getElementById("output").innerHTML = ans;
 };
 document.getElementById("2").onclick = function () {
