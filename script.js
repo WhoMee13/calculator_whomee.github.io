@@ -7,7 +7,7 @@ document.getElementById("1").onclick = function () {
 };
 document.getElementById("clear").onclick = function () {
   ans = "";
-  document.getElementById("output").innerHTML = ans;
+  document.getElementById("output").innerHTML = "0";
 };
 document.getElementById("2").onclick = function () {
   ans += "2";
